@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* start of header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -69,17 +69,21 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* end os header */
 
+/* main style */
 main {
     width: 100%;
     display: flex;
     
 }
+/* article style */
 article{
     width: 75%;
     justify-content: left;
     margin-left: 20px;
 }
+/* aside style */
 aside{
     display: flex;
     flex-wrap: wrap;
@@ -99,7 +103,7 @@ section{
 }
 
 
-
+/* article section code ends here */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -175,6 +179,8 @@ section{
     color: #ffffff;
 }
 
+/* article section code ends here */
+/* aside section code starts here */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -202,6 +208,10 @@ section{
     font-size: 36px;
 }
 
+/* aside section code ends here */
+
+
+/* footer style starts here */
 footer {
     padding: 30px;
     clear: both;
@@ -212,3 +222,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* footer style ends here */

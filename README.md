@@ -1,7 +1,4 @@
-# week1-challenge
-
-
-
+# Html_Semantics
 ## Description
 
 This week1 challenge was created for boot camp students. It contains notes on HTML, CSS, Git.
